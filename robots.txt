@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://teavalegre.github.io/sitemap
+Sitemap: https://teavalegre.github.io/app/sitemap
+Sitemap: https://teavalegre.github.io/assets/sitemap
+Sitemap: https://teavalegre.github.io/css/sitemap
+Sitemap: https://teavalegre.github.io/includes/sitemap
+Sitemap: https://teavalegre.github.io/item/sitemap
+Sitemap: https://teavalegre.github.io/src/sitemap
